@@ -28,8 +28,8 @@ Screenshots of the output.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/farwaayunis/recipe_blog.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/farwaayunis/recipe_blog.git)
+- Live Site URL: (https://farwaayunis.github.io/recipe_blog/)
 
 ## My process
 implement one element try to complete it 100%.then move to next.
