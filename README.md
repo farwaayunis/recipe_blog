@@ -67,8 +67,8 @@ In future projects my focus would be responsive css design and learning how to w
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This helped me in RWD . I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.https://www.semrush.com/blog/semantic-html5-guide/#why-do-i-need-to-use-semantic-html-tags.com) - This helped me in understanding difference between semantic and non-semantic html +i tried to use elements used in semantic html
+- ([https://www.w3schools.com](https://www.w3schools.com/css/css_rwd_intro.asp)) - This helped me in RWD . I really liked this pattern and will use it going forward.
+- (https://www.https://www.semrush.com/blog/semantic-html5-guide/#why-do-i-need-to-use-semantic-html-tags.com) - This helped me in understanding difference between semantic and non-semantic html +i tried to use elements used in semantic html
 
 
 
